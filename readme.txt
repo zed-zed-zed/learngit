@@ -5,4 +5,4 @@ mei aa you are a stupit boss im sure you are a sli b
 git reset --hard HEAD^
 git reset HEAD readme.txt
 git checkout -- readme.txt
-ceeat new brench is easy
+Creating a new branch is quick & simple.
