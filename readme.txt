@@ -6,3 +6,4 @@ git reset --hard HEAD^
 git reset HEAD readme.txt
 git checkout -- readme.txt
 Creating a new branch is quick & simple.
+
